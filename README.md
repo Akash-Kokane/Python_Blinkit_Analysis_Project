@@ -1,4 +1,3 @@
-# Python_Blinkit_Analysis_Project
 # **Blinkit Sales Analysis – Python Data Analytics Project**
 
 ## **Project Overview**
