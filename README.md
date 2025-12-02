@@ -37,6 +37,7 @@ The project demonstrates:
 
 ### **1. Fat Content**
 
+**Key Insight:**
 * **Low Fat** items generate **64.6%** of total sales.
 * Health-oriented products show higher demand.
 
@@ -53,19 +54,39 @@ Low-selling categories:
 * **Seafood**
 * **Breakfast**
 
-### **3. Outlet Location Performance**
+**Key Insight:**
+* Top-selling categories like **Fruits & Vegetables, Snack Foods, and Household Items** indicate strong demand for daily essentials.
+* Low performance in **Seafood** and **Breakfast** suggests an opportunity to improve promotion, pricing, or product availability.
 
-* **Tier 3 outlets generate the highest revenue**.
-* Followed by Tier 2 and Tier 1.
 
-### **4. Outlet Size**
+### 3. Fat Content by Outlet for Total Sales:
 
+**Key Insight:**
+* Low Fat items consistently generate higher sales than Regular items across all outlet tiers.
+* Tier 3 outlets show the highest demand for both categories, highlighting strong consumer preference in smaller markets.
+
+### **4. Outlet Establishment Year**
+* Older outlets (1998–2000) show stronger and more stable sales.
+
+**Key Insight:**
+* Older outlets, especially those established before 2000, show significantly higher sales compared to newer ones.
+* The sharp dip in 2011 highlights performance issues in outlets opened that year, indicating a need for review or improvement.
+
+### **5. Outlet Size**
 * Medium outlets perform best.
 * High-size outlets underperform.
 
-### **5. Outlet Establishment Year**
+**Key Insight:**
+* Medium outlets contribute the highest share of sales, indicating optimal customer traffic and efficiency.
+* High-size outlets show the lowest share, suggesting underutilized space or weaker sales performance.
 
-* Older outlets (1998–2000) show stronger and more stable sales.
+### **6. Outlet Location Performance**
+* **Tier 3 outlets generate the highest revenue**.
+* Followed by Tier 2 and Tier 1.
+
+**Key Insight:**
+* Tier 3 outlets lead in revenue, indicating strong sales momentum in smaller markets.
+* Tier 2 and Tier 1 outlets follow, suggesting potential to enhance presence and performance in higher-tier locations.
 
 
 ## **Visualizations Included**
@@ -84,21 +105,7 @@ Low-selling categories:
 * Checked data types & missing values
 * Formatted categorical columns
 
-## 🧾 **Conclusion**
+## **Conclusion**
 
-The analysis provides crucial insights into customer behavior, product demand, and outlet performance. It helps Blinkit optimize inventory, improve marketing strategy, and strengthen outlet planning.
-
-
-## 🚀 **How to Run the Project**
-
-1. Clone the repository
-2. Install dependencies
-3. Run the Jupyter Notebook or Python script
-
-```bash
-pip install -r requirements.txt
-```
-
-```python
-python blinkit_analysis.py
-```
+* The analysis provides crucial insights into customer behavior, product demand, and outlet performance. It helps Blinkit optimize inventory, improve marketing strategy, and strengthen outlet planning.
+---
